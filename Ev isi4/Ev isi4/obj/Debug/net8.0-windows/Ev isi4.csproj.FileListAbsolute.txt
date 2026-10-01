@@ -1,0 +1,18 @@
+C:\Users\user\source\repos\Ev isi4\Ev isi4\bin\Debug\net8.0-windows\Ev isi4.exe
+C:\Users\user\source\repos\Ev isi4\Ev isi4\bin\Debug\net8.0-windows\Ev isi4.deps.json
+C:\Users\user\source\repos\Ev isi4\Ev isi4\bin\Debug\net8.0-windows\Ev isi4.runtimeconfig.json
+C:\Users\user\source\repos\Ev isi4\Ev isi4\bin\Debug\net8.0-windows\Ev isi4.dll
+C:\Users\user\source\repos\Ev isi4\Ev isi4\bin\Debug\net8.0-windows\Ev isi4.pdb
+C:\Users\user\source\repos\Ev isi4\Ev isi4\obj\Debug\net8.0-windows\Ev_isi4.Form1.resources
+C:\Users\user\source\repos\Ev isi4\Ev isi4\obj\Debug\net8.0-windows\Ev_isi4.Properties.Resources.resources
+C:\Users\user\source\repos\Ev isi4\Ev isi4\obj\Debug\net8.0-windows\Ev isi4.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Ev isi4\Ev isi4\obj\Debug\net8.0-windows\Ev isi4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ev isi4\Ev isi4\obj\Debug\net8.0-windows\Ev isi4.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ev isi4\Ev isi4\obj\Debug\net8.0-windows\Ev isi4.AssemblyInfo.cs
+C:\Users\user\source\repos\Ev isi4\Ev isi4\obj\Debug\net8.0-windows\Ev isi4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ev isi4\Ev isi4\obj\Debug\net8.0-windows\Ev isi4.dll
+C:\Users\user\source\repos\Ev isi4\Ev isi4\obj\Debug\net8.0-windows\refint\Ev isi4.dll
+C:\Users\user\source\repos\Ev isi4\Ev isi4\obj\Debug\net8.0-windows\Ev isi4.pdb
+C:\Users\user\source\repos\Ev isi4\Ev isi4\obj\Debug\net8.0-windows\Ev isi4.genruntimeconfig.cache
+C:\Users\user\source\repos\Ev isi4\Ev isi4\obj\Debug\net8.0-windows\ref\Ev isi4.dll
+C:\Users\user\source\repos\Ev isi4\Ev isi4\obj\Debug\net8.0-windows\Ev isi4.sourcelink.json
