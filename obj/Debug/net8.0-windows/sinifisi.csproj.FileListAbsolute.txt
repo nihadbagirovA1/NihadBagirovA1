@@ -1,0 +1,17 @@
+C:\Users\Student\Desktop\sinifisi\bin\Debug\net8.0-windows\sinifisi.exe
+C:\Users\Student\Desktop\sinifisi\bin\Debug\net8.0-windows\sinifisi.deps.json
+C:\Users\Student\Desktop\sinifisi\bin\Debug\net8.0-windows\sinifisi.runtimeconfig.json
+C:\Users\Student\Desktop\sinifisi\bin\Debug\net8.0-windows\sinifisi.dll
+C:\Users\Student\Desktop\sinifisi\bin\Debug\net8.0-windows\sinifisi.pdb
+C:\Users\Student\Desktop\sinifisi\obj\Debug\net8.0-windows\sinifisi.Form1.resources
+C:\Users\Student\Desktop\sinifisi\obj\Debug\net8.0-windows\sinifisi.Properties.Resources.resources
+C:\Users\Student\Desktop\sinifisi\obj\Debug\net8.0-windows\sinifisi.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\sinifisi\obj\Debug\net8.0-windows\sinifisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\sinifisi\obj\Debug\net8.0-windows\sinifisi.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\sinifisi\obj\Debug\net8.0-windows\sinifisi.AssemblyInfo.cs
+C:\Users\Student\Desktop\sinifisi\obj\Debug\net8.0-windows\sinifisi.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\sinifisi\obj\Debug\net8.0-windows\sinifisi.dll
+C:\Users\Student\Desktop\sinifisi\obj\Debug\net8.0-windows\refint\sinifisi.dll
+C:\Users\Student\Desktop\sinifisi\obj\Debug\net8.0-windows\sinifisi.pdb
+C:\Users\Student\Desktop\sinifisi\obj\Debug\net8.0-windows\sinifisi.genruntimeconfig.cache
+C:\Users\Student\Desktop\sinifisi\obj\Debug\net8.0-windows\ref\sinifisi.dll
